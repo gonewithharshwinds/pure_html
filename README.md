@@ -23,6 +23,13 @@ This repository holds pure, and holy html pages only. Why? The reasoning is as f
 - Sad, it is......
 
 
+## PSYCHOLOGICALLY SPEAKING --
+
+- ALL THOSE HOT FEMALE MODELS will get your attention and waste your time. If you're a woman, you would probably be triggered to check her make up and what nots... If you're a guy, you'll be... doing the deeds if you're single ig... I don't care, eww. It's disgusting.
+- BLACK & WHITE. THAT IS ALL YOU HAVE! No complexity. Variation is by size and weights of the font. You can easily figure out, especially since all those distractions are away.
+- Faster work being done == you won't waste your time which is money, and money is what buys you food. Food makes you stay alive. HTML PAGES MAKE YOU LIVE!!! Bruhhhhhhhh! Why would you like to intoxicate yourself with some BS javascript and those animations that waste 1 second of your time per click! Oof!
+
+
 
 ## Solution!!!
 
@@ -39,11 +46,6 @@ This repository holds pure, and holy html pages only. Why? The reasoning is as f
 
 - Most of all  **IT WORKS!**
 
-## PSYCHOLOGICALLY SPEAKING --
-
-- ALL THOSE HOT FEMALE MODELS will get your attention and waste your time. If you're a woman, you would probably be triggered to check her make up and what nots... If you're a guy, you'll be... doing the deeds if you're single ig... I don't care, eww. It's disgusting.
-- BLACK & WHITE. THAT IS ALL YOU HAVE! No complexity. Variation is by size and weights of the font. You can easily figure out, especially since all those distractions are away.
-- Faster work being done == you won't waste your time which is money, and money is what buys you food. Food makes you stay alive. HTML PAGES MAKE YOU LIVE!!! Bruhhhhhhhh! Why would you like to intoxicate yourself with some BS javascript and those animations that waste 1 second of your time per click! Oof!
 
 ### Conclusion
 ```To quote```
