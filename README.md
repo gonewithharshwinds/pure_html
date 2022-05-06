@@ -1,6 +1,6 @@
 # pure_html
 
-Extremely pure and holy HTML static pages
+Extremely pure and holy HTML static pages ```#html-revolution```
 
 ![gonewithharshwinds](http://ForTheBadge.com/images/badges/built-with-swag.svg)
 
